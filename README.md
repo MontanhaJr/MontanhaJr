@@ -14,7 +14,7 @@
 
 - 👨‍💻 Studying Computer Engeneering at Unisociesc - Joinville - SC - Brazil
 <br/>
-<br/>
+
 <h3 align="center">Some Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
