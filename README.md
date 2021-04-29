@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mauriciomontanhajunior@gmail.com**
 
-- 🗺 From Jaraguá do Sul - SC - Brazil
+- 🗺 From Jaraguá do Sul / Joinville - SC - Brazil
 
 - 👨‍💻 Studying Computer Engeneering at Unisociesc - Joinville - SC - Brazil
 <br/>
