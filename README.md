@@ -6,13 +6,14 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=montanhajr&label=Profile%20views&color=0e75b6&style=flat" alt="montanhajr" /> </p>
 
-- 🌱 I’m currently working with **Android** using Kotlin
+- 👨‍💻 Computer Engineer
+
+- 🌱 I’m currently working with **Android** using Kotlin and Java
 
 - 📫 How to reach me **mauriciomontanhajunior@gmail.com**
 
 - 🗺 From Jaraguá do Sul / Joinville - SC - Brazil
 
-- 👨‍💻 Studying Computer Engeneering at Unisociesc - Joinville - SC - Brazil
 <br/>
 
 <h3 align="center">Some Languages and Tools:</h3>
